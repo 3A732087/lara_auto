@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "lara_auto hw",
+    "authors": [
+        {
+            "name": "Xu jia quan",
+            "email": "quannn0180716v@gmail.com"
+        }
+    ],
+    "require": {}
+}
